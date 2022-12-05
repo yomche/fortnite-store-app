@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fortnite-store-app/static/css/main.7b0d5a45.css",
+    "main.js": "/fortnite-store-app/static/js/main.10741a65.js",
+    "index.html": "/fortnite-store-app/index.html",
+    "main.7b0d5a45.css.map": "/fortnite-store-app/static/css/main.7b0d5a45.css.map",
+    "main.10741a65.js.map": "/fortnite-store-app/static/js/main.10741a65.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b0d5a45.css",
+    "static/js/main.10741a65.js"
+  ]
+}
